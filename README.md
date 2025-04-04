@@ -10,6 +10,6 @@ Machine Learning and Data Analystics are a real passion of mine, I have recently
 
 In my portoflio, I will demonstrate my ability to work with various Machine Learning models working in Python and show my SQL skills to manage, organize and analyze data. I will show how I work from start to finish on Machine Learning models, showing my data analytics techniques and critical thinking, working with large and complex datasets.
 
-I am looking for analytic thinking roles and I am confident the projects I will show in my portfolio will allow me to be considered for any Machine Learning and Data Anlyst roles you have available
+I am looking for analytic thinking role and I am confident the projects I will show in my portfolio will allow me to be considered for any Machine Learning and Data Anlyst roles you have available
 
 Thank you for taking time to visit my portfolio and I look forward to hearing from you
