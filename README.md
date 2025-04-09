@@ -25,17 +25,18 @@ Thank you for taking time to visit my portfolio and I look forward to hearing fr
 -	Completed Citrix Virtual Apps and Desktop Advanced Administration course – CCV-V
 -	Completed Citrix Provisioning Administration certificate
 -	Citrix Virtual Apps and Desktop service with Microsoft Azure course
+  
 
 ## Education
 
-**January 2023 - 2024  
-Mia Digital University  
+January 2023 - May 2024  
+**Mia Digital University  
 First Class Honors Master in computer Science, Cyber Security, Data Analytics and Artificial Intelligence (GPA 3.7)**
 
 
 
-**September 2012 - May 2016  
-University of Limerick  
+September 2012 - May 2016  
+**University of Limerick  
 Bachelor of Science in Mobile Communications and Security, in Computer Engineering and Electronic engineering**   
 
 
@@ -44,7 +45,7 @@ Bachelor of Science in Mobile Communications and Security, in Computer Engineeri
 **Azure Services:** Azure Machine Learning, Azure SQL Database, Azure Blob Storage, Python sdkv2  
 **Programming Languages:** Python, SQL  
 **Data Analysis & Visualization:** Pandas, NumPy, Matplotlib, Seaborn, Tableau  
-**Machine Learning & AI:** TensorFlow, Scikit-Learn, LLM’s, NLP, XGBOOST, Decision Trees, Regression, Classification models, Clustering  
+**Machine Learning & AI:** TensorFlow, Scikit-Learn, LLM’s - Langchain, NLP, XGBOOST, Decision Trees, Regression, Classification models, Clustering  
 **Database Management:** Postgresql  
 
 
