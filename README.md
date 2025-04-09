@@ -13,3 +13,28 @@ In my portoflio, I will demonstrate my ability to work with various Machine Lear
 I am looking for analytic thinking roles and I am confident the projects I will show in my portfolio will allow me to be considered for any Machine Learning and Data Anlyst roles you have available
 
 Thank you for taking time to visit my portfolio and I look forward to hearing from you
+
+
+## Data Science and Machine learning Projects
+
+•	Developed and modeled a Network Intrusion Detection System, utilizing a Neural Network classification system in Python with Tensorflow
+
+•	Performing ETL on large datasets and creating pipelines in Azure ML and locally to train and deploy models within azure.
+
+•	Performing complex SQL query’s in PostgreSQL and analyzing the data, to identify trends, patterns and correlations using Python
+
+•	Working on Supervised and Unsupervised Machine Learning models such as Linear Regression, Logistic Regression, Decision Trees, KMeans Clustering, XGBoost, Random Forests both locally and in Azure. 
+
+•	Implemented AutoML and model management solutions using Azure, including pipeline design and MLOPS.
+
+•	Conducted data-scraping using beautiful soup and performing EDA pre-processing the data before modelling 
+
+•	Worked on Business Intelligent solutions using Tableau to visualize and present user friendly data project dashboards and charts.
+
+•	Data manipulation and analysis using libraries such as Pandas, NumPy, and Azure SDKv2
+
+•	NLP projects on TensorFlow, which include Sentiment Analysis, Fake news detector and Spam email classification
+
+
+
+
