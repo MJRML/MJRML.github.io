@@ -14,7 +14,7 @@ I am currently seeking opportunities that require strong analytical thinking, an
 
 Thank you for visiting my portfolio, and I look forward to the opportunity to connect with you.
 
-## <br>Professional Certificates</br>
+## <br>Professional Certificates
 
 - Microsoft Data Science Associate (DP-100)
 -	Microsoft Azure fundamentals (AZ-900)
@@ -27,7 +27,7 @@ Thank you for visiting my portfolio, and I look forward to the opportunity to co
 -	Citrix Virtual Apps and Desktop service with Microsoft Azure course
   
 
-## <br>Education</br>
+## <br>Education
 
 January 2023 - May 2024  
 **Mia Digital University  
@@ -40,7 +40,7 @@ September 2012 - May 2016
 Bachelor of Science in Mobile Communications and Security, in Computer Engineering and Electronic engineering**   
 
 
-## <br>Technical Skills</br>
+## <br>Technical Skills
 
 **Azure Services:** Azure Machine Learning, Azure SQL Database, Azure Blob Storage, Python sdkv2  
 **Programming Languages:** Python, SQL  
@@ -49,7 +49,7 @@ Bachelor of Science in Mobile Communications and Security, in Computer Engineeri
 **Database Management:** Postgresql  
 
 
-## <br>Data Science and Machine learning Projects</br>
+## <br>Data Science and Machine learning Projects
 
 - Designed and developed a Network Intrusion Detection System (NIDS) leveraging a Neural Network classification model implemented in Python using TensorFlow.
 
