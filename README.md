@@ -1,20 +1,20 @@
 # MACHINE LEARNING AND DATA ANALYST PORTFOLIO
 
-Welcome to my Machine Learning and Data Analyst Portfolio
+Hello and Welcome to my portfolio
 
-I am a Machine Learning/Data Analyst engineer with 3 years experience working with various technologies to collect, organize, transform and analyze data.
+I am a Machine Learning and Data Analytics professional with three years of experience leveraging a variety of technologies to collect, organize, transform, and analyze data.
 
-I have 6 years experience as a Virtualization Systems Engineer in the United Arab Emiartes and Ireland and 3 years ago I decided to change career.
+Prior to transitioning into this field, I spent six years as a Virtualization Systems Engineer in the United Arab Emirates and Ireland. Three years ago, I made a career shift to pursue my passion for Machine Learning and Data Analytics.
 
-Machine Learning and Data Analystics are a real passion of mine, I have recently finsihed a Masters in AI, Cyber Security and Data Analytics. I am proficient in Python, SQL, Tableau and I am Microsoft Certified: Azure Data Scientist.
+I have recently completed a Master’s degree in Artificial Intelligence, Cybersecurity, and Data Analytics, and I hold Microsoft Certification as an Azure Data Scientist. I am proficient in Python, SQL, and Tableau, and I specialize in developing machine learning models and deriving insights from data.
 
-In my portoflio, I will demonstrate my ability to work with various Machine Learning models working in Python and show my SQL skills to manage, organize and analyze data. I will show how I work from start to finish on Machine Learning models, showing my data analytics techniques and critical thinking, working with large and complex datasets.
+Within this portfolio, I will showcase my ability to work with various machine learning models in Python, as well as my expertise in SQL to manage, organize, and analyze complex datasets. I will walk you through my approach to end-to-end machine learning projects, highlighting my data analysis techniques and problem-solving skills.
 
-I am looking for analytic thinking roles and I am confident the projects I will show in my portfolio will allow me to be considered for any Machine Learning and Data Anlyst roles you have available
+I am currently seeking opportunities that require strong analytical thinking, and I am confident that the projects featured in my portfolio will demonstrate my qualifications for roles in Machine Learning and Data Analytics.
 
-Thank you for taking time to visit my portfolio and I look forward to hearing from you
+Thank you for visiting my portfolio, and I look forward to the opportunity to connect with you.
 
-## Certificates
+## <br>Professional Certificates</br>
 
 - Microsoft Data Science Associate (DP-100)
 -	Microsoft Azure fundamentals (AZ-900)
@@ -27,7 +27,7 @@ Thank you for taking time to visit my portfolio and I look forward to hearing fr
 -	Citrix Virtual Apps and Desktop service with Microsoft Azure course
   
 
-## Education
+## <br>Education</br>
 
 January 2023 - May 2024  
 **Mia Digital University  
@@ -40,7 +40,7 @@ September 2012 - May 2016
 Bachelor of Science in Mobile Communications and Security, in Computer Engineering and Electronic engineering**   
 
 
-## Technical Skills
+## <br>Technical Skills</br>
 
 **Azure Services:** Azure Machine Learning, Azure SQL Database, Azure Blob Storage, Python sdkv2  
 **Programming Languages:** Python, SQL  
@@ -49,23 +49,23 @@ Bachelor of Science in Mobile Communications and Security, in Computer Engineeri
 **Database Management:** Postgresql  
 
 
-## Data Science and Machine learning Projects
+## <br>Data Science and Machine learning Projects</br>
 
--	Developed and modeled a Network Intrusion Detection System, utilizing a Neural Network classification system in Python with Tensorflow
+- Designed and developed a Network Intrusion Detection System (NIDS) leveraging a Neural Network classification model implemented in Python using TensorFlow.
 
--	Performing ETL on large datasets and creating pipelines in Azure ML and locally to train and deploy models within azure.
+- Executed ETL (Extract, Transform, Load) processes on large datasets and built data pipelines in Azure Machine Learning, to facilitate model training and deployment within the Azure environment.
 
--	Performing complex SQL query’s in PostgreSQL and analyzing the data, to identify trends, patterns and correlations using Python
+- Conducted advanced SQL queries in PostgreSQL, performing data analysis to identify trends, patterns, and correlations, and utilized Python for further data manipulation and insights extraction.
 
--	Working on Supervised and Unsupervised Machine Learning models such as Linear Regression, Logistic Regression, Decision Trees, KMeans Clustering, XGBoost, Random Forests both locally and in Azure. 
+- Engineered and optimized both supervised and unsupervised machine learning models, including Linear Regression, Logistic Regression, Decision Trees, KMeans Clustering, XGBoost, and Random Forest, both locally and within Azure environments.
 
--	Implemented AutoML and model management solutions using Azure, including pipeline design and MLOPS.
+- Implemented AutoML workflows and model management solutions on Azure, focusing on pipeline design and MLOps practices to streamline deployment and lifecycle management.
 
--	Conducted data-scraping using beautiful soup and performing EDA pre-processing the data before modelling 
+- Conducted data scraping using BeautifulSoup and performed data preprocessing tasks to ensure high-quality input for machine learning model training.
 
-- Worked on Business Intelligent solutions using Tableau to visualize and present user friendly data project dashboards and charts.
+- Developed Business Intelligence solutions utilizing Tableau to create visually engaging and user-friendly dashboards and reports for data analysis and decision-making.
 
--	NLP projects on TensorFlow, which include Sentiment Analysis, Fake news detector and Spam email classification
+- NLP projects using TensorFlow, including Sentiment Analysis, Fake News Detection, and Spam Email Classification to extract valuable insights from textual data.
 
 
 
