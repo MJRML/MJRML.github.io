@@ -1,3 +1,7 @@
+<p align="left">
+  <img src="/assets/images/Profile_Photo.jpg" width="150" style="border-radius: 50%;" alt="Marty Ryan's Profile Photo">
+</p>
+
 # MACHINE LEARNING AND DATA ANALYST PORTFOLIO
 
 Hello and Welcome to my portfolio
@@ -66,7 +70,6 @@ Bachelor of Science in Mobile Communications and Security, in Computer Engineeri
 - Developed Business Intelligence solutions utilizing Tableau to create visually engaging and user-friendly dashboards and reports for data analysis and decision-making.
 
 - NLP projects using TensorFlow, including Sentiment Analysis, Fake News Detection, and Spam Email Classification to extract valuable insights from textual data.
-
 
 
 
