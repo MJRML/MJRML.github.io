@@ -1,7 +1,3 @@
-<p align="left">
-  <img src="/assets/images/Profile_Photo.jpg" width="150" style="border-radius: 50%;" alt="Marty Ryan's Profile Photo">
-</p>
-
 # MACHINE LEARNING AND DATA ANALYST PORTFOLIO
 
 Hello and Welcome to my portfolio
