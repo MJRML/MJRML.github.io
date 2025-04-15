@@ -67,7 +67,7 @@ Bachelor of Science in Mobile Communications and Security, in Computer Engineeri
 
 - NLP projects using TensorFlow, including Sentiment Analysis, Fake News Detection, and Spam Email Classification to extract valuable insights from textual data.
 
-
+![My Profile Photo](/assets/img/Profile_Photo.jpg)
 
 
 
