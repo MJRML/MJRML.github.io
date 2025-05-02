@@ -67,6 +67,10 @@ Bachelor of Science in Mobile Communications and Security, in Computer Engineeri
 
 - NLP projects using TensorFlow, including Sentiment Analysis, Fake News Detection, and Spam Email Classification to extract valuable insights from textual data.
 
+## Portfolio Objective
+
+- The objective of this portfolio is to showcase my skills in Machine Learning, Python programming, data analysis, and analytical thinking. It also serves as a resource for visitors by providing well-documented code, clear instructions, and practical examples of working within the Azure Machine Learning workspace. My aim is to present a structured and transparent workflow that reflects both technical proficiency and strong communication in applied data science
+
 
 
 
