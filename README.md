@@ -53,7 +53,8 @@ Bachelor of Science in Mobile Communications and Security, in Computer Engineeri
 
 - Designed and developed a Network Intrusion Detection System (NIDS) leveraging a Neural Network classification model implemented in Python using TensorFlow.
 
-- Executed ETL (Extract, Transform, Load) processes on large datasets and built data pipelines in Azure Machine Learning, to facilitate model training and deployment within the Azure environment.
+- Executed ETL (Extract, Transform, Load) processes on large datasets and built data pipelines in Azure Machine Learning, to facilitate model training and deployment within the Azure environment working with  
+  Azure Data Factory and Databricks
 
 - Conducted advanced SQL queries in PostgreSQL, performing data analysis to identify trends, patterns, and correlations, and utilized Python for further data manipulation and insights extraction.
 
