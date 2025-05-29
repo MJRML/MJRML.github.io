@@ -42,7 +42,7 @@ Bachelor of Science in Mobile Communications and Security, in Computer Engineeri
 
 ## <br>Technical Skills
 
-**Azure Services:** Azure Machine Learning, Azure SQL Database, Azure Blob Storage, Python sdkv2  
+**Azure Services:** Azure Machine Learning, Azure SQL Database, Azure Data factory, Azure Databricks Azure Blob Storage, Python sdkv2 
 **Programming Languages:** Python, SQL  
 **Data Analysis & Visualization:** Pandas, NumPy, Matplotlib, Seaborn, Tableau  
 **Machine Learning & AI:** TensorFlow, Scikit-Learn, LLM’s - Langchain, NLP, XGBOOST, Decision Trees, Regression, Classification models, Clustering  
