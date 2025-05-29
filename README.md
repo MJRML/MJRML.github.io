@@ -52,15 +52,20 @@ Bachelor of Science in Mobile Communications and Security, in Computer Engineeri
 ## <br>Data Science and Machine learning Projects
 
 - Designed and developed a Network Intrusion Detection System (NIDS) leveraging a Neural Network classification model implemented in Python using TensorFlow.
+  [Network_Intrusion_Detection_System-Neural-Network](https://github.com/MJRML/Network_Intrusion_Detection_System-Neural-Network)
 
 - Executed ETL (Extract, Transform, Load) processes on large datasets and built data pipelines in Azure Machine Learning, to facilitate model training and deployment within the Azure environment working with  
   Azure Data Factory and Databricks
+  [Azure_SQL_DB->Azure_Data_Factory->BlobStorage->PreProcessing_Databricks](https://github.com/MJRML/Azure_SQL_DB--Azure_Data_Factory--BlobStorage--PreProcessing_Databricks)
 
 - Conducted advanced SQL queries in PostgreSQL, performing data analysis to identify trends, patterns, and correlations, and utilized Python for further data manipulation and insights extraction.
 
-- Engineered and optimized both supervised and unsupervised machine learning models, including Linear Regression, Logistic Regression, Decision Trees, KMeans Clustering, XGBoost, and Random Forest, both locally and within Azure environments.
+- Engineered and optimized both supervised and unsupervised machine learning models, including Linear Regression, Logistic Regression, Decision Trees, KMeans Clustering, XGBoost, and Random Forest, both locally and within Azure environments.  
+[Logistc_Regression-vs-Decision_Trees](https://github.com/MJRML/Logistc_Regression-vs-Decision_Trees)
+
 
 - Implemented AutoML workflows and model management solutions on Azure, focusing on pipeline design and MLOps practices to streamline deployment and lifecycle management.
+- [Linear_Regression_JupyterNotepad_vs_AzureML_Designer_tool](https://github.com/MJRML/Linear_Regression_JupyterNotepad_vs_AzureML_Designer_tool)
 
 - Conducted data scraping using BeautifulSoup and performed data preprocessing tasks to ensure high-quality input for machine learning model training.
 
