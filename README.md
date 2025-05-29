@@ -65,13 +65,13 @@ Bachelor of Science in Mobile Communications and Security, in Computer Engineeri
 
 
 - Implemented AutoML workflows and model management solutions on Azure, focusing on pipeline design and MLOps practices to streamline deployment and lifecycle management.
-- [Linear_Regression_JupyterNotepad_vs_AzureML_Designer_tool](https://github.com/MJRML/Linear_Regression_JupyterNotepad_vs_AzureML_Designer_tool)
+  [Linear_Regression_JupyterNotepad_vs_AzureML_Designer_tool](https://github.com/MJRML/Linear_Regression_JupyterNotepad_vs_AzureML_Designer_tool)
 
-- Conducted data scraping using BeautifulSoup and performed data preprocessing tasks to ensure high-quality input for machine learning model training.
+- Conducted data scraping using BeautifulSoup on medical websites and created an LangChain OpenAI application for this medical data.
 
 - Developed Business Intelligence solutions utilizing Tableau to create visually engaging and user-friendly dashboards and reports for data analysis and decision-making.
 
-- NLP projects using TensorFlow, including Sentiment Analysis, Fake News Detection, and Spam Email Classification to extract valuable insights from textual data.
+- NLP projects utilising NLTK, including Sentiment Analysis, Fake News Detection, and Spam Email Classification to extract valuable insights from textual data.
 
 ## Portfolio Objective
 
