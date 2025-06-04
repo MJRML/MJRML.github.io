@@ -56,7 +56,7 @@ Bachelor of Science in Mobile Communications and Security, in Computer Engineeri
 
 - Executed ETL (Extract, Transform, Load) processes on large datasets and built data pipelines in Azure Machine Learning, to facilitate model training and deployment within the Azure environment working with  
   Azure Data Factory and using Azure Machine Learning and deploy it as a Real-time Endpoint to ingest new data and return a result for our Logistic Regression model
-  [Azure_SQL_DB->Azure_Data_Factory->BlobStorage->Pre-Processing Noteboo-> Azure Machine Learning Real-Time Endpoint Deployment](https://github.com/MJRML/Azure_SQL_DB--Azure_Data_Factory--BlobStorage--Azure_Machine_Learning-Real-time-Endpoint)
+  [Azure_SQL_DB->Azure_Data_Factory->BlobStorage->Pre-Processing Notebook-> Azure Machine Learning Real-Time Endpoint Deployment](https://github.com/MJRML/Azure_SQL_DB--Azure_Data_Factory--BlobStorage--Azure_Machine_Learning-Real-time-Endpoint)
 
 - Conducted advanced SQL queries in PostgreSQL, performing data analysis to identify trends, patterns, and correlations, and utilized Python for further data manipulation and insights extraction.
 
