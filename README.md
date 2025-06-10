@@ -64,14 +64,17 @@ Bachelor of Science in Mobile Communications and Security, in Computer Engineeri
 [Logistc_Regression-vs-Decision_Trees](https://github.com/MJRML/Logistc_Regression-vs-Decision_Trees)
 
 
-- Implemented AutoML workflows and model management solutions on Azure, focusing on pipeline design and MLOps practices to streamline deployment and lifecycle management.
+- Implemented AutoML workflows and model management solutions on Azure, focusing on pipeline design and MLOps practices to streamline deployment and lifecycle management.  
   [Linear_Regression_JupyterNotepad_vs_AzureML_Designer_tool](https://github.com/MJRML/Linear_Regression_JupyterNotepad_vs_AzureML_Designer_tool)
 
-- Conducted data scraping using BeautifulSoup on medical websites and created an LangChain OpenAI application for this medical data.
+- LangChain OpenAI application   
+[LangChain Projects](https://github.com/MJRML/LangChain_Projects)
+
+- Azure Data Factory Projects  
+[Azure Data Factory Projects Projects](https://github.com/MJRML/Azure_Data_Factory_Projects)
 
 - Developed Business Intelligence solutions utilizing Tableau to create visually engaging and user-friendly dashboards and reports for data analysis and decision-making.
 
-- NLP projects utilising NLTK, including Sentiment Analysis, Fake News Detection, and Spam Email Classification to extract valuable insights from textual data.
 
 ## Portfolio Objective
 
