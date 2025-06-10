@@ -71,7 +71,7 @@ Bachelor of Science in Mobile Communications and Security, in Computer Engineeri
 [LangChain Projects](https://github.com/MJRML/LangChain_Projects)
 
 - Azure Data Factory Projects  
-[Azure Data Factory Projects Projects](https://github.com/MJRML/Azure_Data_Factory_Projects)
+[Azure Data Factory Projects](https://github.com/MJRML/Azure_Data_Factory_Projects)
 
 - Developed Business Intelligence solutions utilizing Tableau to create visually engaging and user-friendly dashboards and reports for data analysis and decision-making.
 
