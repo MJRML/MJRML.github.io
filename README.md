@@ -70,7 +70,7 @@ Bachelor of Science in Mobile Communications and Security, in Computer Engineeri
 - LangChain OpenAI application   
 [LangChain Projects](https://github.com/MJRML/LangChain_Projects)
 
-- Hugging Face Tranformer Model - Real-Time-Crypto-Market-QA-Assistant: Develop a lightweight, efficient Retrieval-Augmented Generation (RAG) system tailored for real-time cryptocurrency data analysis and question answering.
+- Hugging Face Tranformer Model - Real-Time-Crypto-Market-QA-Assistant: Develop a lightweight, efficient Retrieval-Augmented Generation (RAG) system tailored for real-time cryptocurrency data analysis and question answering.  
 [Crypto-RAG System](https://github.com/MJRML/Real-Time-Crypto-Market-QA-Assistant)
 
 - Azure Data Factory Projects  
