@@ -51,11 +51,11 @@ Bachelor of Science in Mobile Communications and Security, in Computer Engineeri
 
 ## <br>Data Science and Machine learning Projects
 
-- Designed and developed a Network Intrusion Detection System (NIDS) leveraging a Neural Network classification model implemented in Python using TensorFlow.
-  [Network_Intrusion_Detection_System-Neural-Network](https://github.com/MJRML/Network_Intrusion_Detection_System-Neural-Network)
+- This project combines real-world housing data analysis with the power of Generative AI using OpenAI’s language models. The goal was to extract insights from Irish housing market listings, summarize them automatically, and ensure reliability with automated testing and CI/CD workflows  
+  [Generative-AI-for-Irish-Real-Estate-Data-Analysis](https://github.com/MJRML/Generative-AI-for-Irish-Real-Estate-Data-Analysis)
 
 - Executed ETL (Extract, Transform, Load) processes on large datasets and built data pipelines in Azure Machine Learning, to facilitate model training and deployment within the Azure environment working with  
-  Azure Data Factory and using Azure Machine Learning and deploy it as a Real-time Endpoint to ingest new data and return a result for our Logistic Regression model
+  Azure Data Factory and using Azure Machine Learning and deploy it as a Real-time Endpoint to ingest new data and return a result for our Logistic Regression model  
   [Azure_SQL_DB->Azure_Data_Factory->BlobStorage->Pre-Processing Notebook-> Azure Machine Learning Real-Time Endpoint Deployment](https://github.com/MJRML/Azure_SQL_DB--Azure_Data_Factory--BlobStorage--Azure_Machine_Learning-Real-time-Endpoint)
 
 - Conducted advanced SQL queries in PostgreSQL, performing data analysis to identify trends, patterns, and correlations, and utilized Python for further data manipulation and insights extraction.
@@ -76,7 +76,10 @@ Bachelor of Science in Mobile Communications and Security, in Computer Engineeri
 - Fine-Tuning Phi-3 Mini with LoRA on a Crypto Compliance Report: -  fine-tune the microsoft/phi-3-mini-4k-instruct Large Language Model (LLM) using LoRA (Low-Rank Adaptation) for domain adaptation  
 [Fine-Tuning Phi-3 Mini with LoRA on a Crypto Compliance Report](https://github.com/MJRML/Fine-Tuning-Phi-3-Mini-with-LoRA-on-a-Crypto-Compliance-Report)  
 - Azure Data Factory Projects  
-[Azure Data Factory Projects](https://github.com/MJRML/Azure_Data_Factory_Projects)
+[Azure Data Factory Projects](https://github.com/MJRML/Azure_Data_Factory_Projects)  
+- Designed and developed a Network Intrusion Detection System (NIDS) leveraging a Neural Network classification model implemented in Python using TensorFlow.  
+  [Network_Intrusion_Detection_System-Neural-Network](https://github.com/MJRML/Network_Intrusion_Detection_System-Neural-Network)
+
 
 - Developed Business Intelligence solutions utilizing Tableau to create visually engaging and user-friendly dashboards and reports for data analysis and decision-making.
 
