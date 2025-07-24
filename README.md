@@ -47,6 +47,7 @@ Bachelor of Science in Mobile Communications and Security, in Computer Engineeri
 **Data Analysis & Visualization:** Pandas, NumPy, Matplotlib, Seaborn, Tableau  
 **Machine Learning & AI:** TensorFlow, Scikit-Learn, LLM’s - Langchain, NLP, XGBOOST, Decision Trees, Regression, Classification models, Clustering  
 **Database Management:** Postgresql  
+**Version Control:** Git, GitHub, CI/CD (GitHub Actions)
 
 
 ## <br>Data Science and Machine learning Projects
