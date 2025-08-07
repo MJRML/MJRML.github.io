@@ -42,7 +42,7 @@ Bachelor of Science in Mobile Communications and Security, in Computer Engineeri
 
 **Cloud & MLOps:** Azure Data Factory, Azure ML Pipelines, CI/CD with GitHub Actions  
 
-**BI & Visualization:** Tableau, Power BI, dashboard development,    
+**BI & Visualization:** Tableau, dashboard development   
 
 **Databases:** PostgreSQL, Azure SQL Database, data modeling, query optimization  
 
