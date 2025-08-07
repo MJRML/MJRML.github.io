@@ -1,18 +1,11 @@
-# MACHINE LEARNING AND DATA ANALYST PORTFOLIO
+# AI | Machine Learning | Data Analytics Portfolio
 
-Hello and Welcome to my portfolio
+**Welcome to My Portfolio**  
+I’m a Machine Learning and Artificial Intelligence professional with over three years of experience designing and deploying data-driven solutions using a wide range of modern technologies. My skill set spans machine learning, data engineering, and cloud-based analytics — backed by a solid six-year foundation in systems and virtualization engineering across the UAE and Ireland.
 
-I am a Machine Learning and Data Analytics professional with three years of experience leveraging a variety of technologies to collect, organize, transform, and analyze data.
+I specialize in building end-to-end solutions that transform raw data into actionable insights. From Python scripting and SQL queries to training large language models and deploying real-time inference endpoints in Azure, I bring a cross-functional, hands-on approach to solving complex data problems.
 
-Prior to transitioning into this field, I spent six years as a Virtualization Systems Engineer in the United Arab Emirates and Ireland. Three years ago, I made a career shift to pursue my passion for Machine Learning and Data Analytics.
-
-I have recently completed a Master’s degree in Artificial Intelligence, Cybersecurity, and Data Analytics, and I hold Microsoft Certification as an Azure Data Scientist. I am proficient in Python, SQL, and Tableau, and I specialize in developing machine learning models and deriving insights from data.
-
-Within this portfolio, I will showcase my ability to work with various machine learning models in Python, as well as my expertise in SQL to manage, organize, and analyze complex datasets. I will walk you through my approach to end-to-end machine learning projects, highlighting my data analysis techniques and problem-solving skills.
-
-I am currently seeking opportunities that require strong analytical thinking, and I am confident that the projects featured in my portfolio will demonstrate my qualifications for roles in Machine Learning and Data Analytics.
-
-Thank you for visiting my portfolio, and I look forward to the opportunity to connect with you.
+I hold a Master’s degree in **Artificial Intelligence**, **Cybersecurity**, and **Data Analytics**, and I’m a **Microsoft Certified Azure Data Scientist Associate**.
 
 ## <br>Professional Certificates
 
@@ -40,14 +33,21 @@ September 2012 - May 2016
 Bachelor of Science in Mobile Communications and Security, in Computer Engineering and Electronic engineering**   
 
 
-## <br>Technical Skills
+## <br> My Core Technical Skills Include:
+**Programming & Analysis:** Python, SQL, Pandas, NumPy, Scikit-learn, Matplotlib  
 
-**Azure Services:** Azure Machine Learning, Azure SQL Database, Azure Data factory, Azure Databricks Azure Blob Storage, Python sdkv2  
-**Programming Languages:** Python, SQL  
-**Data Analysis & Visualization:** Pandas, NumPy, Matplotlib, Seaborn, Tableau  
-**Machine Learning & AI:** TensorFlow, Scikit-Learn, LLM’s - Langchain, NLP, XGBOOST, Decision Trees, Regression, Classification models, Clustering  
-**Database Management:** Postgresql  
-**Version Control:** Git, GitHub, CI/CD (GitHub Actions)
+**Machine Learning & AI:** Supervised/Unsupervised ML, XGBoost, Neural Networks, TensorFlow, AutoML, Azure ML  
+
+**LLMs & NLP:** OpenAI (GPT), Hugging Face Transformers, LangChain, Retrieval-Augmented Generation (RAG), LoRA fine-tuning  
+
+**Cloud & MLOps:** Azure Data Factory, Azure ML Pipelines, CI/CD with GitHub Actions  
+
+**BI & Visualization:** Tableau, Power BI, dashboard development,    
+
+**Databases:** PostgreSQL, Azure SQL Database, data modeling, query optimization  
+
+**Security & Infrastructure:** Network monitoring, Splunk, DLP, virtualized environments (VMware, Citrix)  
+
 
 
 ## <br>Data Science and Machine learning Projects
@@ -82,12 +82,7 @@ Bachelor of Science in Mobile Communications and Security, in Computer Engineeri
   [Network_Intrusion_Detection_System-Neural-Network](https://github.com/MJRML/Network_Intrusion_Detection_System-Neural-Network)
 
 
-- Developed Business Intelligence solutions utilizing Tableau to create visually engaging and user-friendly dashboards and reports for data analysis and decision-making.
 
-
-## Portfolio Objective
-
-- The objective of this portfolio is to showcase my skills in Machine Learning, Python programming, data analysis, and analytical thinking. It also serves as a resource for visitors by providing well-documented code, clear instructions, and practical examples of working within the Azure Machine Learning workspace. My aim is to present a structured and transparent workflow that reflects both technical proficiency and strong communication in applied data science
 
 
 
