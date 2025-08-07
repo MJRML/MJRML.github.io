@@ -9,15 +9,14 @@ I hold a Master’s degree in **Artificial Intelligence**, **Cybersecurity**, an
 
 ## <br>Professional Certificates
 
-- Microsoft Data Science Associate (DP-100)
--	Microsoft Azure fundamentals (AZ-900)
--	Cisco Routing and switching professional Certificate
--	VCP – VMware Certified Professional 2022 Certificate
--	VCP – VMware Certified Professional Digital Workspace
--	Citrix Virtual Apps and Desktops on premise and on Cloud – CCA-V certificate
--	Completed Citrix Virtual Apps and Desktop Advanced Administration course – CCV-V
--	Completed Citrix Provisioning Administration certificate
--	Citrix Virtual Apps and Desktop service with Microsoft Azure course
+-	**Microsoft Certified:** Azure Data Scientist Associate (DP-100)
+-	**IBM Generative AI Engineering Professional Certificate**
+-	**Data Ethics, AI and Responsible Innovation Certificate**
+-	**Microsoft Certified:** Azure Fundamentals (AZ-900)
+-	**VMware Certified Professional** – Data Center Virtualization 
+-	**VMware Certified Professional** – Digital Workspace
+-	**Cisco Certified Network Associate** – Routing and Switching
+
   
 
 ## <br>Education
