@@ -75,8 +75,10 @@ Bachelor of Science in Mobile Communications and Security, in Computer Engineeri
 
 - Fine-Tuning Phi-3 Mini with LoRA on a Crypto Compliance Report: -  fine-tune the microsoft/phi-3-mini-4k-instruct Large Language Model (LLM) using LoRA (Low-Rank Adaptation) for domain adaptation  
 [Fine-Tuning Phi-3 Mini with LoRA on a Crypto Compliance Report](https://github.com/MJRML/Fine-Tuning-Phi-3-Mini-with-LoRA-on-a-Crypto-Compliance-Report)  
+
 - Azure Data Factory Projects  
 [Azure Data Factory Projects](https://github.com/MJRML/Azure_Data_Factory_Projects)  
+
 - Designed and developed a Network Intrusion Detection System (NIDS) leveraging a Neural Network classification model implemented in Python using TensorFlow.  
   [Network_Intrusion_Detection_System-Neural-Network](https://github.com/MJRML/Network_Intrusion_Detection_System-Neural-Network)
 
