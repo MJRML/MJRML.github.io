@@ -49,7 +49,7 @@ Bachelor of Science in Mobile Communications and Security, in Computer Engineeri
 
 
 
-## <br>Data Science and Machine learning Projects
+## <br> Projects
 
 - This project combines real-world housing data analysis with the power of Generative AI using OpenAI’s language models. The goal was to extract insights from Irish housing market listings, summarize them automatically, and ensure reliability with automated testing and CI/CD workflows  
   [Generative-AI-for-Irish-Real-Estate-Data-Analysis](https://github.com/MJRML/Generative-AI-for-Irish-Real-Estate-Data-Analysis)
@@ -58,14 +58,20 @@ Bachelor of Science in Mobile Communications and Security, in Computer Engineeri
   Azure Data Factory and using Azure Machine Learning and deploy it as a Real-time Endpoint to ingest new data and return a result for our Logistic Regression model  
   [Azure_SQL_DB->Azure_Data_Factory->BlobStorage->Pre-Processing Notebook-> Azure Machine Learning Real-Time Endpoint Deployment](https://github.com/MJRML/Azure_SQL_DB--Azure_Data_Factory--BlobStorage--Azure_Machine_Learning-Real-time-Endpoint)
 
-- Conducted advanced SQL queries in PostgreSQL, performing data analysis to identify trends, patterns, and correlations, and utilized Python for further data manipulation and insights extraction.
+- The goal of this project is to explore automating the reward signal process used in RLHF, potentially reducing the need for human annotators. By leveraging automated metrics such as semantic similarity, factuality, and relevance, this system evaluates LLM responses to generate structured datasets suitable for RLHF fine-tuning.  
+  [LLM-RLHF-Logging-DB](https://github.com/MJRML/LLM-RHLF-Logging_PostgreSQL)
+
+- This project analyzes a medical insurance dataset using PostgreSQL to uncover insights about healthcare costs, lifestyle factors, and regional patterns.
+SQL skills, including aggregations, window functions, CTEs, conditional logic, and percentile analysis  
+[Healthcare Analytics SQL Project — Medical Insurance Data](https://github.com/MJRML/Healthcare-Analytics-SQL-Project-Medical-Insurance-Data)  
+  
 
 - Engineered and optimized both supervised and unsupervised machine learning models, including Linear Regression, Logistic Regression, Decision Trees, KMeans Clustering, XGBoost, and Random Forest, both locally and within Azure environments.  
 [Logistc_Regression-vs-Decision_Trees](https://github.com/MJRML/Logistc_Regression-vs-Decision_Trees)
 
 
 - Implemented AutoML workflows and model management solutions on Azure, focusing on pipeline design and MLOps practices to streamline deployment and lifecycle management.  
-  [Linear_Regression_JupyterNotepad_vs_AzureML_Designer_tool](https://github.com/MJRML/Linear_Regression_JupyterNotepad_vs_AzureML_Designer_tool)
+  [Linear_Regression_JupyterNotepad_vs_AzureML_Designer_tool](https://github.com/MJRML/Linear_Regression_JupyterNotepad_vs_AzureML_Designer_tool)  
 
 - LangChain OpenAI application   
 [LangChain Projects](https://github.com/MJRML/LangChain_Projects)
