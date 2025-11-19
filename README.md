@@ -51,6 +51,9 @@ Bachelor of Science in Mobile Communications and Security, in Computer Engineeri
 
 ## <br> Projects
 
+- This project demonstrates a full MLOps workflow using Azure Machine Learning, including: Reproducible model training with Azure ML Jobs, Model versioning in the Azure ML Model Registry, Custom inference environment, Managed Online Endpoint deployment, Real-time predictions via REST API, A Streamlit web frontend for user interaction  
+  [End-to-End MLOps Project](https://github.com/MJRML/End-to-End-MLOps-Project-Insurance-Charge-Prediction-Azure-ML-Streamlit-)
+  
 - This project combines real-world housing data analysis with the power of Generative AI using OpenAI’s language models. The goal was to extract insights from Irish housing market listings, summarize them automatically, and ensure reliability with automated testing and CI/CD workflows  
   [Generative-AI-for-Irish-Real-Estate-Data-Analysis](https://github.com/MJRML/Generative-AI-for-Irish-Real-Estate-Data-Analysis)
 
