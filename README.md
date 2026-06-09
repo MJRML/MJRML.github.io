@@ -32,19 +32,20 @@ Bachelor of Science in Mobile Communications and Security, in Computer Engineeri
 
 
 ## <br> My Core Technical Skills Include:
-**Programming & Analysis:** Python, SQL, Pandas, NumPy, Scikit-learn, Matplotlib  
+**Data Engineering & Analytics**
+Snowflake, Snowpipe, Streams, Tasks, CDC, SQL, ETL/ELT, Data Warehousing, Dimensional Modeling, Star Schema, PostgreSQL
 
-**Machine Learning & AI:** Supervised/Unsupervised ML, XGBoost, Neural Networks, TensorFlow, AutoML, Azure ML  
+**Cloud Platforms**
+Microsoft Azure (Data Factory, Azure ML, Blob Storage, Event Grid, SQL Database)
 
-**LLMs & NLP:** OpenAI (GPT), Hugging Face Transformers, LangChain, Retrieval-Augmented Generation (RAG), LoRA fine-tuning  
+**Programming & Automation**
+Python, SQL, Pandas, NumPy, Git, GitHub
 
-**Cloud & MLOps:** Azure Data Factory, Azure ML Pipelines, CI/CD with GitHub Actions  
+**Machine Learning (Applied)**
+Scikit-learn, XGBoost, Regression/Classification, Clustering, Model Evaluation
 
-**BI & Visualization:** Tableau, dashboard development   
-
-**Databases:** PostgreSQL, Azure SQL Database, data modeling, query optimization  
-
-**Security & Infrastructure:** Network monitoring, Splunk, DLP, virtualized environments (VMware, Citrix)  
+**GenAI & LLMs (Applied)**
+OpenAI GPT, LangChain, Hugging Face Transformers, RAG systems, embeddings, prompt engineering, LoRA fine-tuning
 
 
 
