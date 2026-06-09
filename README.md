@@ -7,6 +7,7 @@ My core expertise lies in designing and implementing end-to-end data pipelines, 
 
 ## <br>Professional Certificates
 
+- **SnowPro Core Certification**
 -	**Microsoft Certified:** Azure Data Scientist Associate (DP-100)
 -	**IBM Generative AI Engineering Professional Certificate**
 -	**Data Ethics, AI and Responsible Innovation Certificate**
