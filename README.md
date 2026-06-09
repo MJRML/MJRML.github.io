@@ -1,11 +1,9 @@
-# AI | Machine Learning | Data Analytics Portfolio
+# Data Engineer | Snowflake | Azure | ML & GenAI (Applied)
 
 **Welcome to My Portfolio**  
-I’m a Machine Learning and Artificial Intelligence professional with over three years of experience designing and deploying data-driven solutions using a wide range of modern technologies. My skill set spans machine learning, data engineering, and cloud-based analytics — backed by a solid six-year foundation in systems and virtualization engineering across the UAE and Ireland.
+I am a Data Engineer with 6+ years of experience across enterprise infrastructure, virtualization, and cloud environments, currently focused on building scalable data engineering solutions using Snowflake, Azure, Python, and SQL.
 
-I specialize in building end-to-end solutions that transform raw data into actionable insights. From Python scripting and SQL queries to training large language models and deploying real-time inference endpoints in Azure, I bring a cross-functional, hands-on approach to solving complex data problems.
-
-I hold a Master’s degree in **Artificial Intelligence**, **Cybersecurity**, and **Data Analytics**, and I’m a **Microsoft Certified Azure Data Scientist Associate**.
+My core expertise lies in designing and implementing end-to-end data pipelines, including ingestion, transformation, orchestration, and data modeling. I also bring practical experience in machine learning and generative AI, applied to production-style analytics and automation workflows.
 
 ## <br>Professional Certificates
 
