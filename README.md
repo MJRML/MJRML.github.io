@@ -6,7 +6,7 @@
 
 # Welcome to My Portfolio
 
-Hello, I'm **Martin Ryan**, a Data Engineer with 6+ years of experience across enterprise infrastructure, virtualization, and cloud technologies.
+Hello, I'm **Marty Ryan**, a Data Engineer with 6+ years of experience across enterprise infrastructure, virtualization, and cloud technologies.
 
 I specialise in designing and building modern cloud data platforms, with hands-on experience developing end-to-end ELT pipelines using Azure, Snowflake, dbt, Apache Airflow, Python, and SQL.
 
