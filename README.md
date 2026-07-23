@@ -1,112 +1,225 @@
-# Data Engineer | Snowflake | Azure | ML & GenAI (Applied)
+# Data Engineer
 
-**Welcome to My Portfolio**  
-I am a Data Engineer with 6+ years of experience across enterprise infrastructure, virtualization, and cloud environments, currently focused on building scalable data engineering solutions using Snowflake, Azure, Python, and SQL.
+### Azure • Snowflake • dbt • Apache Airflow • Fivetran • Python • SQL
 
-My core expertise lies in designing and implementing end-to-end data pipelines, including ingestion, transformation, orchestration, and data modeling. I also bring practical experience in machine learning and generative AI, applied to production-style analytics and automation workflows.
+---
 
-## <br>Professional Certificates
+# Welcome to My Portfolio
 
-- **SnowPro Core Certification**
--	**Microsoft Certified:** Azure Data Scientist Associate (DP-100)
--	**Microsoft Certified:** Azure Fundamentals (AZ-900)
--	**IBM Generative AI Engineering Professional Certificate**
--	**Data Ethics, AI and Responsible Innovation Certificate**
--	**VMware Certified Professional** – Data Center Virtualization 
--	**VMware Certified Professional** – Digital Workspace
--	**Cisco Certified Network Associate** – Routing and Switching
+Hello, I'm **Martin Ryan**, a Data Engineer with 6+ years of experience across enterprise infrastructure, virtualization, and cloud technologies.
 
-  
+I specialise in designing and building modern cloud data platforms, with hands-on experience developing end-to-end ELT pipelines using Azure, Snowflake, dbt, Apache Airflow, Python, and SQL.
 
-## <br>Education
+My recent projects focus on data ingestion, transformation, orchestration, dimensional modelling, data quality, and analytics. Alongside data engineering, I also have practical experience building machine learning and generative AI solutions using Azure Machine Learning, LangChain, and OpenAI.
 
-January 2023 - May 2024  
-**Mia Digital University  
-First Class Honors Master in computer Science, Cyber Security, Data Analytics and Artificial Intelligence (GPA 3.7)**
+---
 
+# Featured Project
 
+## ✈️ Flights Data Engineering Platform
 
-September 2012 - May 2016  
-**University of Limerick  
-Bachelor of Science in Mobile Communications and Security, in Computer Engineering and Electronic engineering**   
+**GitHub Repository**
 
+https://github.com/MJRML/flight-analytics-platform
 
-## <br> My Core Technical Skills Include:
-**Data Engineering & Analytics**
-Snowflake, Snowpipe, Streams, Tasks, CDC, SQL, ETL/ELT, Data Warehousing, Dimensional Modeling, Star Schema, PostgreSQL
+A production-style end-to-end cloud data engineering platform built using modern industry tools and best practices.
 
-**Cloud Platforms**
-Microsoft Azure (Data Factory, Azure ML, Blob Storage, Event Grid, SQL Database)
+### Technology Stack
 
-**Programming & Automation**
-Python, SQL, Pandas, NumPy, Git, GitHub
+- Azure Blob Storage
+- Fivetran
+- Snowflake
+- dbt Cloud
+- Apache Airflow
+- Python
+- SQL
+- Tableau
+- Git & GitHub
 
-**Machine Learning (Applied)**
-Scikit-learn, XGBoost, Regression/Classification, Clustering, Model Evaluation
+### Key Features
 
-**GenAI & LLMs (Applied)**
-OpenAI GPT, LangChain, Hugging Face Transformers, RAG systems, embeddings, prompt engineering, LoRA fine-tuning
+- Designed a complete ELT architecture using Azure, Snowflake and dbt
+- Automated data ingestion with Fivetran
+- Built layered dbt models (Staging → Intermediate → Marts)
+- Implemented dimensional modelling using a Star Schema
+- Added automated data quality testing with dbt
+- Orchestrated the entire pipeline using Apache Airflow
+- Built Tableau dashboards for business reporting
+- Documented the project with architecture diagrams and engineering decisions
 
+---
 
+# Other Featured Projects
 
-## <br> Projects
+## Snowflake Azure Retail Data Pipeline
 
-### Snowflake Azure Retail Data Pipeline (Data Engineering Core)
- [Snowflake Azure Retail Data Pipeline](https://github.com/MJRML/snowflake-azure-retail-data-pipeline)  
-  End-to-end cloud data pipeline using Azure and Snowflake.
-- Built event-driven ingestion using Azure Blob Storage, Event Grid, and Snowpipe
+https://github.com/MJRML/snowflake-azure-retail-data-pipeline
+
+- Built an event-driven ingestion pipeline using Azure Blob Storage, Event Grid and Snowpipe
 - Processed semi-structured JSON using VARIANT and FLATTEN
-- Implemented CDC pipelines using Streams and Tasks
-- Designed star schema data warehouse (FACT + DIM models)
-- Version-controlled full pipeline using GitHub
+- Implemented CDC using Snowflake Streams and Tasks
+- Designed a dimensional data warehouse
+- Version controlled using GitHub
 
-## End-to-End MLOps Platform (Azure ML)
- [End-to-End MLOps Project](https://github.com/MJRML/End-to-End-MLOps-Project-Insurance-Charge-Prediction-Azure-ML-Streamlit-)  
- Production ML pipeline for insurance charge prediction.
-- Trained and evaluated XGBoost regression model in Azure ML
-- Built reproducible training pipelines using Azure ML Jobs
-- Registered models in Azure ML Model Registry
-- Deployed real-time inference endpoint (REST API)
-- Built Streamlit frontend for predictions 
+---
 
-## Healthcare Data Analytics (SQL + PostgreSQL)
-[Healthcare Analytics SQL Project — Medical Insurance Data](https://github.com/MJRML/Healthcare-Analytics-SQL-Project-Medical-Insurance-Data)  
-- Advanced SQL analytics using CTEs, window functions, and cohort analysis 
-- Identified cost drivers and risk factors in healthcare data 
-- Built structured analytical reporting queries 
+## End-to-End Azure MLOps Platform
 
-## Generative AI Real Estate Analysis (GenAI)
-[Generative-AI-for-Irish-Real-Estate-Data-Analysis](https://github.com/MJRML/Generative-AI-for-Irish-Real-Estate-Data-Analysis)  
-- Used OpenAI models to summarize and analyze housing market data
-- Built automated insight generation pipelines
-- Integrated CI/CD workflows for testing and deployment
+https://github.com/MJRML/End-to-End-MLOps-Project-Insurance-Charge-Prediction-Azure-ML-Streamlit-
 
-## LLM RLHF Evaluation Pipeline (PostgreSQL + embeddings) 
-[LLM RLHF Evaluation Pipeline (PostgreSQL + embeddings)](https://github.com/MJRML/PostgreSQL-Based-LLM-Evaluation-RLHF-Data-Pipeline)  
-- Designed PostgreSQL schema to store prompts, model responses, token usage, and evaluation metadata.
-- Generated semantic embeddings with SentenceTransformers for similarity and reward scoring.
-- Implemented automated evaluation workflows for relevance, consistency, and response quality.
-- Built batch-processing pipelines for large-scale prompt and response analysis.
-- Produced structured RLHF-ready datasets for downstream fine-tuning and experimentation.  
+- Trained and deployed an XGBoost model using Azure Machine Learning
+- Built reproducible ML pipelines
+- Registered and versioned models
+- Deployed a real-time REST inference endpoint
+- Developed a Streamlit application for predictions
 
-## Additional Data Engineering, AI and MAchine Learning Projects
-- **LangChain SQL Agent for Natural Language Querying** [LLM-RLHF-Logging-DB](https://github.com/MJRML/LLM-RHLF-Logging_PostgreSQL)  
-- **Crypto RAG System using Hugging Face Transformers** [Crypto-RAG System](https://github.com/MJRML/Real-Time-Crypto-Market-QA-Assistant)  
-- **LangChain OpenAI application** [LangChain Projects](https://github.com/MJRML/LangChain_Projects)  
-- **Fine-tuning Phi-3 Mini using LoRA** [Fine-Tuning Phi-3 Mini with LoRA on a Crypto Compliance Report](https://github.com/MJRML/Fine-Tuning-Phi-3-Mini-with-LoRA-on-a-Crypto-Compliance-Report)  
-- **Intrusion Detection System using Neural Networks**  [Network_Intrusion_Detection_System-Neural-Network - Classifying netwrok activity](https://github.com/MJRML/Network_Intrusion_Detection_System-Neural-Network)  
-- **Azure Data Factory ETL Pipelines** [Azure_SQL_DB->Azure_Data_Factory->BlobStorage->Pre-Processing Notebook-> Azure Machine Learning Real-Time Endpoint Deployment](https://github.com/MJRML/Azure_SQL_DB--Azure_Data_Factory--BlobStorage--Azure_Machine_Learning-Real-time-Endpoint)  
-- **Machine Learning model comparisons (Regression, Trees, Clustering)** [Logistc_Regression-vs-Decision_Trees](https://github.com/MJRML/Logistc_Regression-vs-Decision_Trees)  
+---
 
+## Healthcare Data Analytics
 
+https://github.com/MJRML/Healthcare-Analytics-SQL-Project-Medical-Insurance-Data
 
+- Advanced SQL analytics using PostgreSQL
+- Window Functions
+- Common Table Expressions (CTEs)
+- Cohort Analysis
+- Business reporting queries
 
+---
 
+# Artificial Intelligence & Generative AI Projects
 
+## Irish Real Estate Analysis using Generative AI
 
+https://github.com/MJRML/Generative-AI-for-Irish-Real-Estate-Data-Analysis
 
+- OpenAI GPT
+- Automated insight generation
+- Prompt engineering
+- CI/CD workflows
 
+---
 
+## LLM Evaluation & RLHF Pipeline
 
+https://github.com/MJRML/PostgreSQL-Based-LLM-Evaluation-RLHF-Data-Pipeline
 
+- PostgreSQL
+- Sentence Transformers
+- Embeddings
+- RLHF evaluation datasets
+- Automated response quality scoring
 
+---
+
+# Additional Projects
+
+| Project | Technologies |
+|----------|--------------|
+| LangChain SQL Agent | LangChain, PostgreSQL |
+| Crypto RAG System | Hugging Face, RAG |
+| Phi-3 LoRA Fine-tuning | Transformers, LoRA |
+| Intrusion Detection System | Python, Neural Networks |
+| Azure Data Factory ETL | Azure Data Factory |
+| Machine Learning Algorithms | Scikit-learn |
+
+---
+
+# Core Technical Skills
+
+## Data Engineering
+
+- Azure Blob Storage
+- Snowflake
+- dbt Cloud
+- Apache Airflow
+- Fivetran
+- SQL
+- Python
+- ELT Pipelines
+- Data Warehousing
+- Dimensional Modelling
+- Star Schema
+- Data Quality Testing
+- Tableau
+
+---
+
+## Cloud
+
+- Microsoft Azure
+- Azure Data Factory
+- Azure Machine Learning
+- Azure Event Grid
+
+---
+
+## Programming
+
+- Python
+- SQL
+- Pandas
+- NumPy
+- Git
+- GitHub
+
+---
+
+## Machine Learning & AI
+
+- Azure Machine Learning
+- Scikit-learn
+- XGBoost
+- LangChain
+- OpenAI
+- Hugging Face
+- Retrieval-Augmented Generation (RAG)
+- LoRA Fine-tuning
+
+---
+
+# Professional Certifications
+
+- SnowPro Core Certification
+- Microsoft Certified: Azure Data Scientist Associate (DP-100)
+- Microsoft Certified: Azure Fundamentals (AZ-900)
+- IBM Generative AI Engineering Professional Certificate
+- Data Ethics, AI and Responsible Innovation Certificate
+- VMware Certified Professional – Data Center Virtualization
+- VMware Certified Professional – Digital Workspace
+- Cisco Certified Network Associate – Routing and Switching
+
+---
+
+# Education
+
+### Master of Computer Science (First Class Honours)
+
+**MIA Digital University**
+
+Specialisation:
+
+- Artificial Intelligence
+- Cybersecurity
+- Data Analytics
+
+**GPA:** 3.7
+
+---
+
+### Bachelor of Science
+
+**University of Limerick**
+
+Computer Engineering & Electronic Engineering
+
+Specialising in:
+
+- Mobile Communications
+- Network Security
+
+---
+
+Thank you for visiting my portfolio.
+
+If you'd like to learn more about any of these projects, please feel free to explore the repositories or connect with me on GitHub.
