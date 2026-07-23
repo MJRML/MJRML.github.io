@@ -16,7 +16,7 @@ My recent projects focus on data ingestion, transformation, orchestration, dimen
 
 # Featured Project
 
-## ✈️ Flights Data Engineering Platform
+## Flights Data Engineering Platform
 
 **GitHub Repository**
 
