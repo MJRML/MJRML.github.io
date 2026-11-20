@@ -1,28 +1,68 @@
+
 # Data Engineer
 
-### Azure • Snowflake • dbt • Apache Airflow • Fivetran • Python • SQL
+### Azure • Snowflake • Databricks • Python • SQL • LLMs
 
 ---
 
 # Welcome to My Portfolio
 
-Hello, I'm **Marty Ryan**, a Data Engineer with 6+ years of experience across enterprise infrastructure, virtualization, and cloud technologies.
+Hello, I'm **Marty Ryan**, a Data Engineer with over six years of enterprise infrastructure engineering experience and hands-on experience building cloud-based data platforms.
 
-I specialise in designing and building modern cloud data platforms, with hands-on experience developing end-to-end ELT pipelines using Azure, Snowflake, dbt, Apache Airflow, Python, and SQL.
+I specialise in designing and implementing end-to-end data engineering solutions using **Microsoft Azure, Azure Databricks and Snowflake**, with practical experience in data ingestion, incremental processing, Lakehouse architecture, data transformation, data quality, dimensional modelling and workflow orchestration.
 
-My recent projects focus on data ingestion, transformation, orchestration, dimensional modelling, data quality, and analytics. Alongside data engineering, I also have practical experience building machine learning and generative AI solutions using Azure Machine Learning, LangChain, and OpenAI.
+My portfolio showcases projects spanning modern data engineering, cloud platforms, machine learning and generative AI. My technical experience includes Python, SQL, PySpark, Delta Lake, dbt, Apache Airflow, Fivetran and large language models (LLMs).
 
 ---
 
-# Featured Project
+# Featured Projects
 
-## Flights Data Engineering Platform
+## Global Logistics & Fleet Operations Data Platform | Azure Databricks
+
+**GitHub Repository**
+
+https://github.com/MJRML/Irish-Global-Logistics-Azure-Data-Engineering-Databricks-Lakehouse-and-BI-Platform
+
+An end-to-end Azure data engineering platform integrating Azure SQL Database and employee-submitted CSV files into a Databricks Lakehouse. The platform uses Azure Data Factory, Azure Data Lake Storage Gen2 and Azure Databricks to deliver incremental ingestion, data quality processing and curated Gold datasets for operational reporting.
+
+### Technology Stack
+
+- Microsoft Azure
+- Azure SQL Database
+- Azure Data Factory
+- Azure Data Lake Storage Gen2
+- Azure Blob Storage
+- Azure Databricks
+- PySpark
+- Delta Lake
+- Databricks Auto Loader
+- Unity Catalog
+- Databricks Asset Bundles
+- Lakeflow Jobs
+- Python
+- SQL
+- Git & GitHub
+
+### Key Features
+
+- Designed and implemented an end-to-end Azure data platform integrating Azure SQL Database and employee-submitted CSV files through Azure Data Factory and Azure Data Lake Storage Gen2.
+- Developed incremental ingestion pipelines using watermark-based extraction and event-driven file ingestion, supporting scheduled and event-triggered data movement.
+- Built a Medallion Lakehouse architecture using Azure Databricks, PySpark, Delta Lake and Auto Loader across Bronze, Silver and Gold layers.
+- Implemented data quality validation, deduplication, quarantine handling and referential integrity checks in the Silver layer.
+- Implemented Auto CDC and SCD Type 1 processing for applicable datasets.
+- Developed three independent Gold reporting pipelines covering delivery, depot and driver performance.
+- Configured Unity Catalog for data governance and implemented Databricks Asset Bundles to deploy and manage workflows across development and production environments.
+- Orchestrated data processing workflows using Databricks Lakeflow Jobs.
+
+---
+
+## Flights Data Engineering Platform | Snowflake
 
 **GitHub Repository**
 
 https://github.com/MJRML/flight-analytics-platform
 
-A production-style end-to-end cloud data engineering platform built using modern industry tools and best practices.
+An end-to-end cloud ELT platform built using Azure, Snowflake, dbt Cloud and Apache Airflow, demonstrating automated data ingestion, layered transformations, dimensional modelling, data quality and workflow orchestration.
 
 ### Technology Stack
 
@@ -31,6 +71,7 @@ A production-style end-to-end cloud data engineering platform built using modern
 - Snowflake
 - dbt Cloud
 - Apache Airflow
+- Docker
 - Python
 - SQL
 - Tableau
@@ -38,14 +79,16 @@ A production-style end-to-end cloud data engineering platform built using modern
 
 ### Key Features
 
-- Designed a complete ELT architecture using Azure, Snowflake and dbt
-- Automated data ingestion with Fivetran
-- Built layered dbt models (Staging → Intermediate → Marts)
-- Implemented dimensional modelling using a Star Schema
-- Added automated data quality testing with dbt
-- Orchestrated the entire pipeline using Apache Airflow
-- Built Tableau dashboards for business reporting
-- Documented the project with architecture diagrams and engineering decisions
+- Designed a complete ELT architecture using Azure, Snowflake and dbt.
+- Automated data ingestion with Fivetran.
+- Built layered dbt models across Staging, Intermediate and Marts layers.
+- Implemented dimensional modelling using a Star Schema.
+- Added automated data quality testing with dbt.
+- Deployed Apache Airflow using Docker.
+- Orchestrated ingestion and transformation workflows using the Fivetran and dbt Cloud REST APIs.
+- Designed a Snowflake star schema with fact and dimension tables.
+- Developed Tableau dashboards for airline performance and operational analytics.
+- Documented the project with architecture diagrams and engineering decisions.
 
 ---
 
@@ -127,41 +170,56 @@ https://github.com/MJRML/PostgreSQL-Based-LLM-Evaluation-RLHF-Data-Pipeline
 
 # Core Technical Skills
 
-## Data Engineering
+## Data Engineering & Lakehouse
 
-- Azure Blob Storage
+- Azure Databricks
+- PySpark
+- Delta Lake
+- Databricks Auto Loader
+- Unity Catalog
+- Databricks Asset Bundles
+- Medallion Architecture
 - Snowflake
 - dbt Cloud
-- Apache Airflow
 - Fivetran
-- SQL
-- Python
-- ELT Pipelines
-- Data Warehousing
-- Dimensional Modelling
-- Star Schema
-- Data Quality Testing
-- Tableau
+- Apache Airflow
+- Azure Data Factory
+- ELT
+- Incremental Processing
+- Change Data Capture (CDC)
+- Data Quality
 
 ---
 
-## Cloud
+## Cloud Platforms
 
 - Microsoft Azure
-- Azure Data Factory
-- Azure Machine Learning
+- Azure Data Lake Storage Gen2
+- Azure Blob Storage
 - Azure Event Grid
+- Azure Machine Learning
+- Docker
 
 ---
 
-## Programming
+## Programming & Development
 
 - Python
 - SQL
+- PySpark
 - Pandas
-- NumPy
 - Git
 - GitHub
+- REST APIs
+
+---
+
+## Data Warehousing & Analytics
+
+- Dimensional Modelling
+- Star Schema
+- Snowflake Streams & Tasks
+- Snowpipe
 
 ---
 
@@ -170,16 +228,19 @@ https://github.com/MJRML/PostgreSQL-Based-LLM-Evaluation-RLHF-Data-Pipeline
 - Azure Machine Learning
 - Scikit-learn
 - XGBoost
+- Large Language Models (LLMs)
+- Foundation Models
+- Hugging Face
+- LoRA
+- Retrieval-Augmented Generation (RAG)
 - LangChain
 - OpenAI
-- Hugging Face
-- Retrieval-Augmented Generation (RAG)
-- LoRA Fine-tuning
 
 ---
 
 # Professional Certifications
 
+- Microsoft Certified: Azure Databricks Data Engineer Associate (DP-750)
 - SnowPro Core Certification
 - Microsoft Certified: Azure Data Scientist Associate (DP-100)
 - Microsoft Certified: Azure Fundamentals (AZ-900)
