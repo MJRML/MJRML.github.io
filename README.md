@@ -92,7 +92,7 @@ An end-to-end cloud ELT platform built using Azure, Snowflake, dbt Cloud and Apa
 
 ---
 
-## Other Featured Projects
+## Featured Projects
 
 ## Snowflake Azure Retail Data Pipeline
 
